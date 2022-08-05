@@ -10,10 +10,10 @@
        - A Turma 913 usará a rede 192.168.13.0/24 para criar as subredes de grupos. 
        - A Turma 923 usará a rede 192.168.23.0/24 para criar as subredes de grupos. 
        - Exemplos:
-          -- O Grupo 1 da turma 914 usará a faixa 192.168.14.[0-15]/28 
-          -- O Grupo 4 da turma 924 usará a faixa 192.168.24.[48-63]/28 
-          -- O Grupo 2 da turma 913 usará a faixa 192.168.13.[16-31]/28
-          -- O Grupo 6 da turma 923 usará a faixa 192.168.23.[80-95]/28 
+          * O Grupo 1 da turma 914 usará a faixa 192.168.14.[0-15]/28 
+          * O Grupo 4 da turma 924 usará a faixa 192.168.24.[48-63]/28 
+          * O Grupo 2 da turma 913 usará a faixa 192.168.13.[16-31]/28
+          * O Grupo 6 da turma 923 usará a faixa 192.168.23.[80-95]/28 
           
    5. Criar uma tabela com as definições de nomes para hostname, nomes de domínio (FQDN), apelidos (aliases) e endereços IP das MVs. 
        - O domínio deve obdecer ao formato: ```<grupoX-9yz>.ifalara.net```
