@@ -18,9 +18,9 @@
    5. Criar uma tabela com as definições de nomes para hostname, nomes de domínio (FQDN), apelidos (aliases) e endereços IP das MVs. 
        - O domínio deve obdecer ao formato: ```<grupoX-9yz>.ifalara.net```
        - Exemplo para o hostname das VMs:
-            -- frances.grupo2-913.ifalara.net
-            -- pajucara.grupo5-914.ifalara.net
-            -- vm02-pc3.grupo2-923.ifalara.net
+            * frances.grupo2-913.ifalara.net
+            * pajucara.grupo5-914.ifalara.net
+            * vm02-pc3.grupo2-923.ifalara.net
 
    6. Editar os hostnames no S.O. de cada MV e adicionar o mapeamento IP/Nomes no arquivo /etc/hosts de cada VM.
    7. Em cada vm deve ter o usuário administrador e os usuários com os nomes dos integrantes do grupo. 
