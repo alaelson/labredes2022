@@ -1,4 +1,4 @@
-# Projeto Final da Disciplina de Serviço de Redes
+# Projeto 2º Bimestre das Disciplinas de Infraestrutura e Serviços de Redes (PRIR/SRED e ISRE)
 
    1. Criar um ambiente de rede, no qual deve conter 8 máquinas virtuais com o S.O. Ubuntu Server.
    2. Criar um documento tutorial/roteiro contendo o passo-a-passo de configuração e execução de  um ambiente de rede virtualizada.
@@ -33,12 +33,12 @@
        
 
   
-### Prazos:
-#### Etapa 1 - 05/08/2022
+# Prazos:
+## Etapa 1 - 05/08/2022
 
 a) Apresentar as tabelas de definições de nomes e IPs para todas as VMs
 b) Criar a página do github do projeto do grupo.
 
-### Etapa 2 (Final) - 12/08/2022
+## Etapa 2 (Final) - 12/08/2022
 
 Entrega/apresentação.
