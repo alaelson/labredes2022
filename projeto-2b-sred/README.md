@@ -29,7 +29,7 @@
 
 <p><center> Figura 1:  Topologia de Rede Virtualizada para a execução do projeto.</center></p>   
    <img src="topologia-proj.2b.png" alt="topologia de rede"
-	title="Figura 1: Topologia de rede virtualizada do projeto do 2º bimestre de serviços de redes" width="540" height="480" />
+	title="Figura 1: Topologia de rede virtualizada do projeto do 2º bimestre de serviços de redes" width="800" height="480" />
        
 
   
