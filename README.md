@@ -4,3 +4,6 @@ Neste espaço teremos os códigos utilizados para a disciplina de Serviços de R
 
 ### Projeto 2º Bimestre
 * Para acessar as definições do projeto [clique aqui](https://github.com/alaelson/labredes2022/blob/master/projeto-2b-sred/README.md)
+
+### Projeto 4º Bimestre (Projeto Final)
+* Para acessar as definições do projeto [clique aqui](https://github.com/alaelson/labredes2022/blob/master/projeto-2b-sred/README.md)
